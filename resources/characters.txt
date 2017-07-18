@@ -6,20 +6,23 @@ Navigation Links :
 Star vs. the Forces of Evil
 
 Image source: "https://media.giphy.com/media/10PFUoJu4psvCw/giphy.gif?response_id=591e3aa50b3724d34101e235"
+<hr>
 
-Characters
+<h2>Characters</h2>
 
 Star Butterfly
 
-Princess Star Butterfly is the main protagonist of Star vs. the Forces of Evil. She is a teenage princess of the kingdom of Mewni (located in another dimension) sent to Earth by her parents in order to learn how to use the royal magic wand.
+<p>Princess Star Butterfly is the main protagonist of Star vs. the Forces of Evil. She is a teenage princess of the kingdom of Mewni (located in another dimension) sent to Earth by her parents in order to learn how to use the royal magic wand.</p>
 
 Star has two main motivations:
 
-Learning to control her wand
-Keeping the wand out of the wrong hands
+<ol>
+<li>Learning to control her wand</li>
+<li>Keeping the wand out of the wrong hands<li>
+</ol>
 
 Marco Diaz
-Marco is Star's best friend. He is kind, responsible, very organized, and supportive of others. He has a reputation at his school for being the "safe kid" due to avoiding danger and being cautious, though he insists that he is a "misunderstood bad boy".
+<p>Marco is Star's best friend. He is kind, responsible, very organized, and supportive of others. He has a reputation at his school for being the "safe kid" due to avoiding danger and being cautious, though he insists that he is a "misunderstood bad boy".</p>
 
 Ludo
 
